@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  18 MAR 2026 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  18 MAR 2026 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -718,10 +718,11 @@ LaTeX Info: Redefining \nameref on input line 122.
 LaTeX Info: Redefining \ref on input line 122.
 LaTeX Info: Redefining \pageref on input line 122.
 LaTeX Info: Redefining \nameref on input line 122.
+(./book.out) (./book.out)
 \@outlinefile=\write4
 \openout4 = `book.out'.
 
-(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count338
 \scratchdimen=\dimen272
@@ -802,7 +803,36 @@ LaTeX Font Info:    Font shape `T1/Alegreya-OsF/m/sc' in size <24.88> not availa
 (Font)              Font shape `T1/Alegreya-OsF/regular/sc' tried instead on input line 160.
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/sc' will be
 (Font)              scaled to size 24.88pt on input line 160.
- [1
+ (./book.toc
+LaTeX Font Info:    Font shape `T1/Alegreya-OsF/b/n' in size <10.95> not available
+(Font)              Font shape `T1/Alegreya-OsF/bold/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/Alegreya-OsF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 1.
+) [1
 
 ] [2
 
@@ -819,38 +849,30 @@ LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/sc' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.166 \chapter
-              {bla bla} [1
+l.170 \end{document}
+                     [1
 
 ]
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.166 \chapter
-              {bla bla} [2
+\tf@toc=\write5
+\openout5 = `book.toc'.
 
-]
-
-! LaTeX Error: File `ch02.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-/Users/kira/books/new-book/book.tex:167: Emergency stop.
-<read *> 
-         
-l.167 \input{ch02.tex}
-                      ^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
+ (./book.aux)
+Package rerunfilecheck Info: File `book.out' has not changed.
+(rerunfilecheck)             Checksum: A88233B9504AC321DD85E9A5E7DDCBA2;104.
+ ) 
 Here is how much of TeX's memory you used:
- 15998 strings out of 478268
- 259709 string characters out of 5846346
- 612555 words of memory out of 5000000
- 33909 multiletter control sequences out of 15000+600000
- 629589 words of font info for 100 fonts, out of 8000000 for 9000
+ 16219 strings out of 478268
+ 264430 string characters out of 5846346
+ 612664 words of memory out of 5000000
+ 34081 multiletter control sequences out of 15000+600000
+ 656736 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,11n,69p,1028b,357s stack positions out of 10000i,1000n,20000p,200000b,200000s
-/Users/kira/books/new-book/book.tex:167:  ==> Fatal error occurred, no output PDF file produced!
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_u7nq5p.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_hxyeky.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb>
+Output written on book.pdf (9 pages, 141945 bytes).
+PDF statistics:
+ 74 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 48649 words of extra memory for PDF output out of 51595 (max. 10000000)
+
