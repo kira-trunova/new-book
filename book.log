@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  26 MAR 2026 18:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  26 MAR 2026 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,28 +898,43 @@ Overfull \hbox (4.89299pt too wide) in paragraph at lines 63--64
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \end{document}
-                     [4]
+l.166 \chapter
+              {} [4] (./ch02.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 "
+     Hey, we've been expecting you," the dark-haired girl said with a smile,... [5
+
+])
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.172 \end{document}
+                     [6]
 \tf@toc=\write5
 \openout5 = `book.toc'.
 
  (./book.aux)
 Package rerunfilecheck Info: File `book.out' has not changed.
-(rerunfilecheck)             Checksum: A88233B9504AC321DD85E9A5E7DDCBA2;104.
+(rerunfilecheck)             Checksum: C2C51A1748DA31EA8F798DB85BFD7827;70.
  ) 
 Here is how much of TeX's memory you used:
- 16492 strings out of 478268
- 273291 string characters out of 5846346
- 617666 words of memory out of 5000000
- 34268 multiletter control sequences out of 15000+600000
- 701083 words of font info for 169 fonts, out of 8000000 for 9000
+ 16497 strings out of 478268
+ 273273 string characters out of 5846346
+ 617665 words of memory out of 5000000
+ 34271 multiletter control sequences out of 15000+600000
+ 700713 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,12n,69p,1028b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_p7kywn.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_dte76s.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_u7nq5p.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_hxyeky.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSans-Regular.pfb>
-Output written on book.pdf (12 pages, 195340 bytes).
+Output written on book.pdf (14 pages, 193469 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 58889 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 56849 words of extra memory for PDF output out of 61914 (max. 10000000)
 

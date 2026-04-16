@@ -853,8 +853,6 @@ INPUT ./ch01.tex
 INPUT ch01.tex
 INPUT ./ch01.tex
 INPUT ch01.tex
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/huerta/alegreya/Alegreya-Regular-osf-sc-t1.vf
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/huerta/alegreya/Alegreya-Regular-osf-sc-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/alegreya/T1AlegreyaSans-OsF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/alegreya/T1AlegreyaSans-OsF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/alegreya/T1AlegreyaSans-OsF.fd
@@ -866,6 +864,10 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/huerta/alegreya/AlegreyaSans-R
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/huerta/alegreya/AlegreyaSans-Regular-osf-sc-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/huerta/alegreya/AlegreyaSans-Regular-osf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/huerta/alegreya/AlegreyaSans-Regular-osf-t1--base.tfm
+INPUT ./ch02.tex
+INPUT ch02.tex
+INPUT ./ch02.tex
+INPUT ch02.tex
 OUTPUT book.toc
 INPUT book.aux
 INPUT ./book.out

@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1774544603 "/Users/kira/books/new-book/book.tex" "book.pdf" "book" 1774544604
-  "/Users/kira/books/new-book/book.tex" 1774543244 4623 01b5b077e21a0a05eb484358dca80855 ""
+["pdflatex"] 1774545481 "/Users/kira/books/new-book/book.tex" "book.pdf" "book" 1774545482
+  "/Users/kira/books/new-book/book.tex" 1774544676 4640 57693b3069dbe7ba2c477a119d1a30bc ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_dte76s.enc" 1570657983 3385 9b484589f736b60f47e8681999520386 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_hxyeky.enc" 1570657983 3374 fdca2a66a79ab954c8f02711c714c940 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc" 1570657983 3329 a3742171a42ea685b68b0aa9bca66e85 ""
@@ -130,11 +130,12 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1671987430 2826445 30c64dfc8271a9b977c5df1e1172ef3f ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "book.aux" 1774544604 971 c1ba17f37b8a1f8d7cf9593a2cf51511 "pdflatex"
-  "book.out" 1774544604 104 a88233b9504ac321dd85e9a5e7ddcba2 "pdflatex"
-  "book.tex" 1774543244 4623 01b5b077e21a0a05eb484358dca80855 ""
-  "book.toc" 1774544604 75 bcace80795095de75180bb696c4ac468 "pdflatex"
+  "book.aux" 1774545482 1137 86c101f794309fcd0da78d92ae1ff03a "pdflatex"
+  "book.out" 1774545482 70 c2c51a1748da31ea8f798db85bfd7827 "pdflatex"
+  "book.tex" 1774544676 4640 57693b3069dbe7ba2c477a119d1a30bc ""
+  "book.toc" 1774545482 128 239fd5aab73da1389a2b4f1f44ef9c7c "pdflatex"
   "ch01.tex" 1774544602 4597 890cb45680cbdd699252d619c7317018 ""
+  "ch02.tex" 1774545481 1162 436b35d180179ca9bd6abff632de9a66 ""
   (generated)
   "book.aux"
   "book.log"
